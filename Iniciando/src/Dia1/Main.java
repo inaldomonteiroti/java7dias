@@ -16,8 +16,5 @@ public class Main {
 
         System.out.println( "A soma dos numeros é: " + soma);
 
-
-
-
     }
 }
